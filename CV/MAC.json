@@ -92,6 +92,10 @@
           "type": "technology"
         },
         {
+          "name": "Swift",
+          "type": "technology"
+        },
+        {
           "name": "Unity3D",
           "type": "technology"
         }
