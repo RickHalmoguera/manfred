@@ -6,15 +6,37 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Ricardo Halmoguera Garcia",
+      "name": "Ricardo ",
+      "surnames": "Halmoguera Garcia",
       "title": "",
       "description": "",
       "location": {
+        "country": "España",
+        "region": "Principado de Asturias",
+        "municipality": "Oviedo",
         "notes": "Autocompleted using Google Maps API"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/RickHalmoguera"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/rhalmoguera/"
+      }
+    ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/rhalmoguera/"
+        }
+      ]
+    },
     "status": "searchingActively"
   }
 }
