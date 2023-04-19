@@ -1,14 +1,19 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Ricardo ",
       "surnames": "Halmoguera Garcia",
+      "title": "",
       "description": "With the intention of resuming my passion for software development and after having gained experience in other sectors for a few years, I have decided to focus again on my training and growth as a FrontEnd Developer. My goal is to master the technologies of HTML, CSS, JavaScript and React.\n\nDuring this year 2023, I have worked hard on carrying out a complete update of my Github and my portfolio, with the purpose of being able to effectively show my skills and knowledge",
+      "avatar": {
+        "alt": "ProfilePic.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/19/674bbddd-cd53-4659-a417-5a42c4c092cc_profilepic.jpg"
+      },
       "location": {
         "country": "España",
         "region": "Principado de Asturias",
@@ -20,6 +25,10 @@
       {
         "type": "github",
         "URL": "https://github.com/RickHalmoguera"
+      },
+      {
+        "type": "other",
+        "URL": "https://rickhalmoguera.github.io/PORTFOLIO/"
       },
       {
         "type": "linkedin",
@@ -77,10 +86,6 @@
         {
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/rhalmoguera/"
-        },
-        {
-          "type": "other",
-          "URL": "https://github.com/RickHalmoguera"
         }
       ]
     },
