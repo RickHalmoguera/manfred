@@ -1,56 +1,59 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "ES",
-    "MACVersion": "0.3"
+    "language": "EN",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
-      "name": "Ricardo ",
+      "name": "Ricardo",
       "surnames": "Halmoguera Garcia",
-      "title": "",
+      "title": "Title",
       "description": "With the intention of resuming my passion for software development and after having gained experience in other sectors for a few years, I have decided to focus again on my training and growth as a FrontEnd Developer. My goal is to master the technologies of HTML, CSS, JavaScript and React.\n\nDuring this year 2023, I have worked hard on carrying out a complete update of my Github and my portfolio, with the purpose of being able to effectively show my skills and knowledge",
       "avatar": {
-        "alt": "ProfilePic.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/19/674bbddd-cd53-4659-a417-5a42c4c092cc_profilepic.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/19/674bbddd-cd53-4659-a417-5a42c4c092cc_profilepic.jpg",
+        "alt": "ProfilePic.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJZxysYJqMNg0RJGJezA5ENDE)",
         "country": "España",
         "region": "Principado de Asturias",
-        "municipality": "Oviedo",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Oviedo"
       }
     },
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/rhalmoguera/"
+      },
       {
         "type": "github",
         "URL": "https://github.com/RickHalmoguera"
       },
       {
         "type": "other",
-        "URL": "https://rickhalmoguera.github.io/PORTFOLIO/"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/rhalmoguera/"
+        "URL": "https://rickhalmoguera.github.io/PORTFOLIO/",
+        "description": "Portfolio"
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "JavaScript",
+          "name": "CSS",
           "type": "technology"
         }
       },
@@ -62,7 +65,7 @@
       },
       {
         "skill": {
-          "name": "CSS",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -78,29 +81,48 @@
           "type": "technology"
         }
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Ability to receive feedback",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Attention to detail",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/rhalmoguera/"
+          "URL": "https://www.linkedin.com/in/rhalmoguera/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/RickHalmoguera",
+          "type": "github"
         }
+      ],
+      "contactMails": [
+        "halmoguerar@gmail.com"
       ]
     },
     "preferences": {
       "preferredCompetences": [
         {
           "name": "React",
-          "type": "technology"
-        },
-        {
-          "name": "React Native",
-          "type": "technology"
-        },
-        {
-          "name": "Swift",
           "type": "technology"
         },
         {
@@ -113,5 +135,8 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "For me, an ideal job as a front-end developer would consist of working on projects that are challenging and fulfilling, with a clear purpose and a positive impact on society. I am passionate about using my skills to create web experiences that are engaging and user-friendly, and that make a difference in people's lives. Collaborating with other developers, designers, and stakeholders to create the best possible product is also important to me, as I believe that teamwork and open communication are essential for success. Additionally, I value opportunities to learn new technologies and techniques, as well as the flexibility to work remotely or have flexible hours when needed. Ultimately, I want to be fairly compensated for my skills and contributions to the company, while also feeling fulfilled and challenged in my work as a front-end developer."
   }
 }
