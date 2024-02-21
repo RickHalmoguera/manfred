@@ -245,7 +245,7 @@
       },
       {
         "studyType": "officialDegree",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "FrontEnd Developer, FrontEnd Development",
         "startDate": "2022-12-01",
         "institution": {
@@ -254,7 +254,8 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/21/90f5957e-ca23-49b8-8827-987ecfd3c5e7_linkedin-photo-4634.linkedin-photo-4634",
             "alt": "24/02/21/90f5957e-ca23-49b8-8827-987ecfd3c5e7_linkedin-photo-4634.linkedin-photo-4634"
           }
-        }
+        },
+        "finishDate": "2023-02-01"
       },
       {
         "studyType": "officialDegree",
