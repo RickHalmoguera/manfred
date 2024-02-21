@@ -277,6 +277,7 @@
         "startDate": "2022-09-01",
         "institution": {
           "name": "OXYGEN Academy & Recruiting",
+          "description": "With an Agile methodology through weekly sprints I have developed the following projects.\nOxygen Shop:\nE-commerce web page for the company “Oxygen”.\nDeveloped with HTML, CSS, Javascript\n\nPhoto Gallery\nPhoto management application utilizing the Unsplash API.\nDeveloped with React, React-Redux, and JavaScript.",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/21/bc13e573-b60f-4fc7-8f9c-4abffb606b70_linkedin-photo-4634.linkedin-photo-4634",
             "alt": "24/02/21/bc13e573-b60f-4fc7-8f9c-4abffb606b70_linkedin-photo-4634.linkedin-photo-4634"
