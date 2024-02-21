@@ -309,10 +309,6 @@
         {
           "name": "React",
           "type": "technology"
-        },
-        {
-          "name": "Unity3D",
-          "type": "technology"
         }
       ],
       "preferredRoles": [
