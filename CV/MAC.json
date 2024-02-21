@@ -11,8 +11,8 @@
       "title": "Full Stack Developer Jr. HTML | CSS | SASS | JS | REACT | REDUX | NODEJS | MONGODB | MYSQL",
       "description": "Driven by a fervor for technology and a relentless pursuit of excellence, I thrive in the dynamic landscape of full-stack development. My proficiency spans across HTML, CSS, React, Redux, Node.js, Express.js, MySQL, MongoDB, RESTful API, and Python. With a solid foundation in both front-end and back-end technologies, I am adept at architecting robust, user-centric applications.\n\nWhat sets me apart is not just my technical acumen but also my unwavering commitment to staying at the forefront of industry trends. I bring a proactive approach to problem-solving, always seeking innovative solutions to challenges. My journey as a junior developer is marked by a dedication to continuous learning, ensuring that I am well-equipped to navigate the fast-paced world of web development.\n\nIn addition to my technical skills, I am a collaborative team player, eager to contribute my expertise to projects that push the boundaries of what's possible. I am enthusiastic about creating seamless user experiences and scalable solutions that make a lasting impact.\n\nAs I embark on this exciting journey, I am open to new opportunities, challenges, and collaborations that allow me to contribute my skills to meaningful projects and further expand my capabilities. Let's connect and explore the possibilities of creating something extraordinary in the world of web development!",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/01/05bd139e-579f-4cbc-80bd-dfad189feaed_linkedin-photo-4634.linkedin-photo-4634",
-        "alt": "24/02/01/05bd139e-579f-4cbc-80bd-dfad189feaed_linkedin-photo-4634.linkedin-photo-4634"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/21/c0ad9b1a-ff57-4df0-8fa3-57eba245a833_linkedin-photo-4634.linkedin-photo-4634",
+        "alt": "24/02/21/c0ad9b1a-ff57-4df0-8fa3-57eba245a833_linkedin-photo-4634.linkedin-photo-4634"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJZxysYJqMNg0RJGJezA5ENDE)",
@@ -34,120 +34,6 @@
         "type": "other",
         "URL": "https://rickhalmoguera.github.io/PORTFOLIO/",
         "description": "Portfolio"
-      }
-    ]
-  },
-  "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "OXYGEN Workspace",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/01/2438f2ca-7103-44a2-bb0a-d54c9b6a5067_linkedin-photo-4634.linkedin-photo-4634",
-            "alt": "24/02/01/2438f2ca-7103-44a2-bb0a-d54c9b6a5067_linkedin-photo-4634.linkedin-photo-4634"
-          }
-        },
-        "roles": [
-          {
-            "name": "Full-stack Developer Jr",
-            "startDate": "2023-10-01",
-            "challenges": [
-              {
-                "description": "Development of the project “Hotal Miranda”\nWeb Page Hotel Miranda\nA website designed to provide information and streamline room reservations at our hotel. Developed using technologies such as HTML, CSS, and Javascript, along with leveraging the powerful SwiperJS library for an even more dynamic and appealing user experience.\nDashboard Hotel Miranda\nAn application designed for the management of reservations, viewing comments, and user administration at Hotel Miranda. Developed using advanced technologies such as React and React-Redux, and enhanced with specialized libraries like React-Toastify and SwiperJS, ensuring an efficient and appealing user experience.\nBackend Hotel Miranda\nDevelopment of a REST API in Node.js and Express to manage the connection with the Hotel Miranda's database. Two versions of this API were created: one using MySQL and the other based on MongoDB."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "DIGI (Digi Spain Telecom)",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/01/5b3fb792-e8a1-49ef-bfb3-ca6199b5ed62_linkedin-photo-4634.linkedin-photo-4634",
-            "alt": "24/02/01/5b3fb792-e8a1-49ef-bfb3-ca6199b5ed62_linkedin-photo-4634.linkedin-photo-4634"
-          }
-        },
-        "roles": [
-          {
-            "name": "Sales Employee",
-            "startDate": "2022-05-01",
-            "finishDate": "2023-09-30",
-            "challenges": [
-              {
-                "description": "As a salesman for Digi Mobil, I am dedicated to helping customers find the right telecommunications solutions for their needs. With 1 year of experience in the telecommunications industry, I have developed a deep understanding of the latest products and services offered by Digi Mobil, and am skilled in identifying the right solutions for a wide range of customers.\n\nMy role involves working closely with customers to understand their needs and recommend appropriate products and services, including mobile plans, and internet services. I am passionate about delivering exceptional customer service and am dedicated to ensuring that every customer I work with feels valued and supported.\n\nIn addition to my promotional duties, I am also responsible for building and maintaining strong relationships with clients, including following up on leads, providing ongoing support and advice, and identifying new opportunities for growth. I am committed to staying up-to-date with the latest industry trends and am always seeking new ways to improve my skills and knowledge."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "GOIKO",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/01/e05cd6db-2daf-4314-9a13-897730fa1907_linkedin-photo-4634.linkedin-photo-4634",
-            "alt": "24/02/01/e05cd6db-2daf-4314-9a13-897730fa1907_linkedin-photo-4634.linkedin-photo-4634"
-          }
-        },
-        "roles": [
-          {
-            "name": "Store Manager",
-            "startDate": "2018-03-01",
-            "finishDate": "2020-03-31",
-            "challenges": [
-              {
-                "description": "Not having much idea how to work in a kitchen, I have worked my way up the ranks to become a store manager at Goiko Gourmet Restaurants. With 3 years of experience in the food and hospitality industry, I have honed my skills in kitchen management, team leadership, and customer service, allowing me to excel in my current role.\n\nMy journey began as a line cook, where I quickly distinguished myself with my creativity, attention to detail, and ability to work under pressure. I was soon promoted to a leadership role, where I trained and mentored new staff members, streamlined kitchen operations, and improved customer satisfaction ratings.\n\nAs a store manager at Goiko Gourmet Restaurants, I am responsible for overseeing all aspects of the restaurant's operations, including staff management, inventory control, menu development, and customer experience. I am passionate about fostering a positive and collaborative work environment and am committed to delivering exceptional service to every customer who walks through our doors."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "GOIKO",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/01/bb1eda01-1726-4f30-b555-f3ed878098a0_linkedin-photo-4634.linkedin-photo-4634",
-            "alt": "24/02/01/bb1eda01-1726-4f30-b555-f3ed878098a0_linkedin-photo-4634.linkedin-photo-4634"
-          }
-        },
-        "roles": [
-          {
-            "name": "Head Cook",
-            "startDate": "2017-11-01",
-            "finishDate": "2018-03-31"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "GOIKO",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/01/d40a3e9e-0a4c-4f96-bfff-a715b5a9377f_linkedin-photo-4634.linkedin-photo-4634",
-            "alt": "24/02/01/d40a3e9e-0a4c-4f96-bfff-a715b5a9377f_linkedin-photo-4634.linkedin-photo-4634"
-          }
-        },
-        "roles": [
-          {
-            "name": "Cook II",
-            "startDate": "2017-07-01",
-            "finishDate": "2017-11-30"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "GOIKO",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/01/dde18a91-25a0-426e-a746-4ca53679e16e_linkedin-photo-4634.linkedin-photo-4634",
-            "alt": "24/02/01/dde18a91-25a0-426e-a746-4ca53679e16e_linkedin-photo-4634.linkedin-photo-4634"
-          }
-        },
-        "roles": [
-          {
-            "name": "Cook",
-            "startDate": "2017-04-01",
-            "finishDate": "2017-08-31"
-          }
-        ]
       }
     ]
   },
