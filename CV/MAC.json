@@ -275,7 +275,7 @@
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Full Stack Developer, Computer Programming",
-        "startDate": "2022-09-01",
+        "startDate": "2023-09-01",
         "institution": {
           "name": "OXYGEN Academy & Recruiting",
           "description": "With an Agile methodology through weekly sprints I have developed the following projects.\nOxygen Shop:\nE-commerce web page for the company “Oxygen”.\nDeveloped with HTML, CSS, Javascript\n\nPhoto Gallery\nPhoto management application utilizing the Unsplash API.\nDeveloped with React, React-Redux, and JavaScript.",
@@ -284,7 +284,7 @@
             "alt": "24/02/21/bc13e573-b60f-4fc7-8f9c-4abffb606b70_linkedin-photo-4634.linkedin-photo-4634"
           }
         },
-        "finishDate": "2022-10-31"
+        "finishDate": "2023-10-01"
       }
     ]
   },
@@ -322,6 +322,28 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "Redux",
+        "type": "technology"
+      },
+      {
+        "name": "Sass",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "For me, an ideal job as a front-end developer would consist of working on projects that are challenging and fulfilling, with a clear purpose and a positive impact on society. I am passionate about using my skills to create web experiences that are engaging and user-friendly, and that make a difference in people's lives. Collaborating with other developers, designers, and stakeholders to create the best possible product is also important to me, as I believe that teamwork and open communication are essential for success. Additionally, I value opportunities to learn new technologies and techniques, as well as the flexibility to work remotely or have flexible hours when needed. Ultimately, I want to be fairly compensated for my skills and contributions to the company, while also feeling fulfilled and challenged in my work as a front-end developer."
   }
 }
