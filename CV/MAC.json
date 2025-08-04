@@ -299,18 +299,9 @@
           "URL": "https://github.com/RickHalmoguera",
           "type": "github"
         }
-      ],
-      "contactMails": [
-        "halmoguerar@gmail.com"
       ]
     },
     "preferences": {
-      "preferredCompetences": [
-        {
-          "name": "React",
-          "type": "technology"
-        }
-      ],
       "preferredRoles": [
         "Frontend Developer"
       ]
